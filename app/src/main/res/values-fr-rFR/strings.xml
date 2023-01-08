@@ -95,12 +95,9 @@
 
     <string name="pref_app_language">Langue de l\'application</string>
     <string name="pref_app_language_default">Défaut</string>
-    <string name="en" translatable="false">English</string>
-    <string name="ru" translatable="false">Русский</string>
-    <string name="fr" translatable="false">Français</string>
 
     <string name="about_version">Version</string>
-    <string name="about_github_project">Le GitHub du projet</string>
+    <string name="about_github_project">Le projet sur GitHub</string>
 
     <string name="action_give_up">Abandonner</string>
     <string name="action_reset_game">Réinitialiser le jeu</string>
