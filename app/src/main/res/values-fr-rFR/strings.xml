@@ -174,17 +174,17 @@
     <string name="saved_game_in_progress">En cours</string>
     <string name="saved_game_mistakes_limit">La partie n\'a pas été terminé, vous avez dépassé la limite d\'erreurs</string>
 
-    <string name="learn_screen_title">Learn</string>
+    <string name="learn_screen_title">Découvrir</string>
     <string name="learn_tab_sudoku">Sudoku</string>
     <string name="learn_tab_app">App</string>
-    <string name="learn_app_toolbar">Toolbar</string>
-    <string name="learn_app_toolbar_desc">A panel that is located under the keyboard</string>
-    <string name="learn_app_toolbar_notes_menu">You can long press on notes button to open the notes menu, where you can perform things like clear or compute notes and toggle visibility of the notes</string>
+    <string name="learn_app_toolbar">Barre d'outils</string>
+    <string name="learn_app_toolbar_desc">Un panneau situé sous le clavier</string>
+    <string name="learn_app_toolbar_notes_menu">Vous pouvez appuyer longuement sur le bouton Notes pour ouvrir le menu des notes, où vous pouvez effectuer des opérations telles que l\'effacement ou le calcul des notes et la modification de la visibilité des notes.</string>
 
-    <string name="learn_sudoku_rules">Sudoku rules</string>
+    <string name="learn_sudoku_rules">Règles du Sudoku</string>
 
-    <string name="sudoku_rules_mistakes">There is a mistake here, can you spot it? Maybe even two</string>
-    <string name="sudoku_rules_mistakes_highlight">Highlight mistakes</string>
+    <string name="sudoku_rules_mistakes">Il y a une erreur ici, pouvez-vous la repérer? Peut-être même deux</string>
+    <string name="sudoku_rules_mistakes_highlight">Mettre en évidence les erreurs</string>
     <string name="sudoku_rules_mistakes_explanation">The first mistake is two 2 in the sixth box. Do you remember the rule that there can\'t be duplicate numbers in a box? The second mistake is the number 6 in row 2, column 8 (R2C8) because there is already 6 in this column in R5C8</string>
     <string name="naked_pairs_title">Naked pairs</string>
     <string name="naked_pairs_explanation">There are two cells that share the same two pencil marks. Right now we can\'t tell which one is the 2 and which is the 3\nBut because Sudoku rules tell us that every block only has only one "2" and only one "3", we can assume that one of them is the 2 and the other is the 3</string>
