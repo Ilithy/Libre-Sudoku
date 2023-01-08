@@ -27,137 +27,138 @@
     <string name="type_unspecified">Non défini</string>
 
     <string name="settings_title">Paramètres</string>
-    <string name="more_title">More</string>
-    <string name="about_title">About</string>
+    <string name="more_title">Plus</string>
+    <string name="about_title">À propos</string>
 
-    <string name="pref_appearance">Appearance</string>
-    <string name="pref_dark_theme">Dark theme</string>
-    <string name="pref_dark_theme_follow">Follow system</string>
-    <string name="pref_dark_theme_off">Off</string>
-    <string name="pref_dark_theme_on">On</string>
+    <string name="pref_appearance">Apparence</string>
+    <string name="pref_dark_theme">Thème sombre</string>
+    <string name="pref_dark_theme_follow">Identique au système</string>
+    <string name="pref_dark_theme_off">Non</string>
+    <string name="pref_dark_theme_on">Oui</string>
 
-    <string name="pref_board_font_size">Board font size</string>
-    <string name="pref_board_font_size_small">Small</string>
-    <string name="pref_board_font_size_medium">Medium</string>
+    <string name="pref_board_font_size">Taille de la police du plateau</string>
+    <string name="pref_board_font_size_small">Petite</string>
+    <string name="pref_board_font_size_medium">Moyenne</string>
     <string name="pref_board_font_size_large">Large</string>
 
-    <string name="pref_input">Input method</string>
+    <string name="pref_input">Méthode de saisie</string>
     <string name="pref_input_cell_first">Cell first</string>
-    <string name="pref_input_digit_first">Digit first</string>
+    <string name="pref_input_digit_first">Chiffre en premier</string>
 
-    <string name="pref_delete_stats">Delete all statistics</string>
-    <string name="pref_delete_stats_summ">This action will delete all your statistics, saved games and records and can\'t be undone</string>
-    <string name="action_deleted">Deleted</string>
+    <string name="pref_delete_stats">Supprimer toutes les statistiques</string>
+    <string name="pref_delete_stats_summ">Cette action supprimera toutes vos statistiques, vos parties sauvegardées et vos records. Cette action ne peut être annulée.</string>
+    <string name="action_deleted">Supprimé</string>
 
-    <string name="pref_app_theme">App theme</string>
+    <string name="pref_app_theme">Thème de l\'application</string>
 
-    <string name="theme_dynamic">Dynamic</string>
-    <string name="theme_green">Green</string>
-    <string name="theme_peach">Peach</string>
-    <string name="theme_yellow">Yellow</string>
-    <string name="theme_lavender">Lavender</string>
-    <string name="theme_black_and_white">Black and white</string>
+    <string name="theme_dynamic">Dynamique</string>
+    <string name="theme_green">Vert</string>
+    <string name="theme_peach">Pêche</string>
+    <string name="theme_yellow">Jaune</string>
+    <string name="theme_lavender">Lavande</string>
+    <string name="theme_black_and_white">Noir et blanc</string>
 
-    <string name="pref_pure_black">Pure black dark theme</string>
-    <string name="pref_gameplay">Gameplay</string>
+    <string name="pref_pure_black">Thème noir pur</string>
+    <string name="pref_gameplay">Jouabilité</string>
 
-    <string name="pref_mistakes_limit">Mistakes limit</string>
-    <string name="pref_mistakes_limit_summ">3 mistakes and you\'re done</string>
+    <string name="pref_mistakes_limit">Limite d\'erreurs</string>
+    <string name="pref_mistakes_limit_summ">3 erreurs et c\'est fini</string>
 
-    <string name="pref_disable_hints">Disable hints</string>
-    <string name="pref_disable_hints_summ">You don\'t like hints? Then just remove them!</string>
+    <string name="pref_disable_hints">Désactiver les conseils</string>
+    <string name="pref_disable_hints_summ">Vous n\'aimez pas les indices? Alors, supprimez-les!</string>
 
-    <string name="pref_show_timer">Show timer</string>
-    <string name="pref_reset_timer">Reset timer on game reset</string>
+    <string name="pref_show_timer">Afficher la minuterie</string>
+    <string name="pref_reset_timer">Remise à zéro de la minuterie lors de la réinitialisation du jeu</string>
 
     <string name="pref_assistance">Assistance</string>
-    <string name="pref_mistakes_check">Mistakes checking</string>
-    <string name="pref_mistakes_check_off">Off</string>
-    <string name="pref_mistakes_check_violations">Rules violations</string>
-    <string name="pref_mistakes_check_final">With final solution</string>
+    <string name="pref_mistakes_check">Vérification des erreurs</string>
+    <string name="pref_mistakes_check_off">Non</string>
+    <string name="pref_mistakes_check_violations">Violations des règles</string>
+    <string name="pref_mistakes_check_final">Avec solution finale</string>
 
-    <string name="pref_highlight_identical">Highlight identical numbers</string>
-    <string name="pref_highlight_identical_summ">When you select a number on a board the cells with the same numbers will be highlighted</string>
+    <string name="pref_highlight_identical">Mise en surbrillance des nombres identiques</string>
+    <string name="pref_highlight_identical_summ">Lorsque vous sélectionnez un numéro sur le plateau, les cellules avec les mêmes nombres seront mises en surbrillance</string>
 
-    <string name="pref_remaining_uses">Remaining uses</string>
-    <string name="pref_remaining_uses_summ">The number of remaining uses of the number will be shown on the keyboard</string>
+    <string name="pref_remaining_uses">Utilisations restantes</string>
+    <string name="pref_remaining_uses_summ">Le nombre d\'utilisations restantes du nombre sera affiché sur le clavier</string>
 
-    <string name="pref_position_lines">Position lines</string>
-    <string name="pref_position_lines_summ">The row and the column of the selected cell will be highlighted</string>
+    <string name="pref_position_lines">Lignes de positionnement</string>
+    <string name="pref_position_lines_summ">La ligne et la colonne de la cellule sélectionnée seront mises en surbrillance</string>
 
-    <string name="pref_auto_erase_notes">Auto erase notes</string>
+    <string name="pref_auto_erase_notes">Effacement automatique des notes</string>
 
-    <string name="pref_other">Other</string>
-    <string name="pref_keep_screen_on">Keep screen on</string>
+    <string name="pref_other">Autre</string>
+    <string name="pref_keep_screen_on">Maintenir l\'écran allumé</string>
 
-    <string name="pref_reset_tipcards">Reset all tip cards</string>
-    <string name="pref_tipcards_reset">Tip cards was reset!</string>
+    <string name="pref_reset_tipcards">Réinitialiser toutes les fiches de conseils</string>
+    <string name="pref_tipcards_reset">Les fiches de conseils ont été remises à zéro!</string>
 
-    <string name="pref_app_language">App language</string>
-    <string name="pref_app_language_default">Default</string>
+    <string name="pref_app_language">Langue de l\'application</string>
+    <string name="pref_app_language_default">Défaut</string>
     <string name="en" translatable="false">English</string>
     <string name="ru" translatable="false">Русский</string>
+    <string name="fr" translatable="false">Français</string>
 
     <string name="about_version">Version</string>
-    <string name="about_github_project">Project on GitHub</string>
+    <string name="about_github_project">Le GitHub du projet</string>
 
-    <string name="action_give_up">Give up</string>
-    <string name="action_reset_game">Reset game</string>
-    <string name="dialog_yes">Yes</string>
-    <string name="dialog_no">No</string>
+    <string name="action_give_up">Abandonner</string>
+    <string name="action_reset_game">Réinitialiser le jeu</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
 
-    <string name="action_show_notes">Show notes</string>
-    <string name="action_clear_notes">Clear notes</string>
-    <string name="action_compute_notes">Compute notes</string>
-    <string name="action_show_solution">Show solution</string>
-    <string name="action_show_mine_sudoku">Show mine</string>
+    <string name="action_show_notes">Afficher les notes</string>
+    <string name="action_clear_notes">Effacer les notes</string>
+    <string name="action_compute_notes">Calculer les notes</string>
+    <string name="action_show_solution">Afficher la solution</string>
+    <string name="action_show_mine_sudoku">Afficher le mien</string>
 
-    <string name="onboard_title">Welcome</string>
-    <string name="intro_what_is_sudoku">A classic sudoku looks like this</string>
-    <string name="intro_rules">The goal of the game is to fill all the cells with numbers from 1 to 9. So that the numbers do not repeat in any column, row or smaller box (3x3)</string>
-    <string name="onboard_recommendation_prefs">We recommend visiting the settings so that you can customize the app for you</string>
-    <string name="action_start">Start</string>
-    <string name="toolbar_undo_description">Undo. Just undo</string>
-    <string name="toolbar_notes_description">Activates note mode (pencil marks)</string>
-    <string name="toolbar_hint_description">Inserts the correct number into the selected cell. Can be disabled in settings</string>
-    <string name="toolbar_erase_description">Removes a number or all notes from the selected cell</string>
-    <string name="first_game_dialog_title">Quick tour</string>
-    <string name="first_game_dialog_got_it">Got it</string>
-    <string name="action_exit">Exit</string>
-    <string name="action_stay">Stay</string>
-    <string name="mistakes_number_out_of">Mistakes %1$d/%2$d</string>
-    <string name="reset_game_text">Do you want to reset current puzzle?</string>
-    <string name="give_up_text">Do you want to give up? After you give up, you can see the solution, but the game will be over</string>
-    <string name="game_completed">Game completed</string>
-    <string name="game_completed_text">You have completed the game. You can stay or exit to the main screen to start a new game</string>
-    <string name="game_over">Game over</string>
-    <string name="game_over_mistakes">You made 3 mistakes</string>
+    <string name="onboard_title">Bienvenue</string>
+    <string name="intro_what_is_sudoku">Un sudoku classique ressemble à ceci</string>
+    <string name="intro_rules">Le but du jeu est de remplir toutes les cellules avec des nombres de 1 à 9. Pour que les nombres ne se répètent dans aucune colonne, ligne ou case plus petite (3x3)</string>
+    <string name="onboard_recommendation_prefs">Nous vous recommandons de visiter les paramètres afin que vous puissiez personnaliser l\'application</string>
+    <string name="action_start">Début</string>
+    <string name="toolbar_undo_description">Annuler. Annuler simplement</string>
+    <string name="toolbar_notes_description">Active le mode note (icone de crayon)</string>
+    <string name="toolbar_hint_description">Insère le nombre correct dans la cellule sélectionnée. Peut être désactivé dans les paramètres</string>
+    <string name="toolbar_erase_description">Supprime un nombre ou toutes les notes de la cellule sélectionnée</string>
+    <string name="first_game_dialog_title">Visite rapide</string>
+    <string name="first_game_dialog_got_it">J\'ai compris</string>
+    <string name="action_exit">Sortir</string>
+    <string name="action_stay">Rester</string>
+    <string name="mistakes_number_out_of">Erreurs %1$d/%2$d</string>
+    <string name="reset_game_text">Voulez-vous réinitialiser le puzzle actuel?</string>
+    <string name="give_up_text">Voulez-vous abandonner? Une fois que vous abandonnez, vous pouvez voir la solution, mais le jeu sera terminé.</string>
+    <string name="game_completed">Jeu terminé</string>
+    <string name="game_completed_text">Vous avez terminé le jeu. Vous pouvez rester ou le quitter vers l\'écran principal pour commencer une nouvelle partie</string>
+    <string name="game_over">Fin de la partie</string>
+    <string name="game_over_mistakes">Vous avez fait 3 erreurs</string>
 
-    <string name="dialog_generating">Generating…</string>
-    <string name="dialog_solving">Solving…</string>
+    <string name="dialog_generating">Génération en cours…</string>
+    <string name="dialog_solving">En cours de résolution…</string>
 
-    <string name="statistics">Statistics</string>
-    <string name="games_started">Games started</string>
-    <string name="games_completed">Games completed</string>
-    <string name="win_rate">Win rate</string>
-    <string name="win_streak">Win streak</string>
-    <string name="current_streak">Current streak</string>
-    <string name="best_streak">Best streak</string>
-    <string name="number_best_games">%1$d best games</string>
-    <string name="games">Games</string>
-    <string name="time">Time</string>
-    <string name="delete_question">Delete?</string>
-    <string name="delete_record_dialog">Do you want to delete your %1$d record? It can\'t be undone</string>
-    <string name="statistics_difficulty_filter_all">All</string>
-    <string name="average_time">Average time</string>
-    <string name="best_time">Best time</string>
+    <string name="statistics">Statistiques</string>
+    <string name="games_started">Jeux commencés</string>
+    <string name="games_completed">Jeux terminés</string>
+    <string name="win_rate">Taux de réussite</string>
+    <string name="win_streak">Série de victoires</string>
+    <string name="current_streak">Série actuelle</string>
+    <string name="best_streak">Meilleure série</string>
+    <string name="number_best_games">%1$d meilleurs jeux</string>
+    <string name="games">Jeux</string>
+    <string name="time">Temps</string>
+    <string name="delete_question">Supprimer?</string>
+    <string name="delete_record_dialog">Voulez-vous supprimer votre enregistrement %1$d? Cela ne peut pas être annulé</string>
+    <string name="statistics_difficulty_filter_all">Tout</string>
+    <string name="average_time">Temps moyen</string>
+    <string name="best_time">Meilleur temps</string>
     <string name="win_rate_percentage">%1$d%%</string>
     <string name="tip_card_win_streak_summ">A win streak is reset when you lose (mistakes limit), give up, or start a new game without completing the previous one, so be careful</string>
     <string name="tip_card_records_list_title">List of records</string>
     <string name="tip_card_records_list_summ">This list contains 5 of your best records, or less, depending on how many times you\'ve played. You can delete a records you don\'t like by long pressing on it</string>
     <string name="statistics_no_records">You have no records yet</string>
 
-    <string name="history_title">History</string>
+    <string name="history_title">Historique</string>
     <string name="history_no_games">You don\'t played yet</string>
     <string name="history_item_time">Time: %1$s</string>
     <string name="history_item_id">Game ID: %1$d</string>
@@ -230,15 +231,15 @@
     <string name="export_string_state_copied">Copied</string>
     <string name="export_string_state_error">Error</string>
 
-    <string name="filter_all">All</string>
-    <string name="filter_completed">Completed</string>
-    <string name="filter_in_progress">In progress</string>
-    <string name="filter_not_started">Not started</string>
+    <string name="filter_all">Tout</string>
+    <string name="filter_completed">Complété</string>
+    <string name="filter_in_progress">En cours</string>
+    <string name="filter_not_started">Non commencé</string>
 
-    <string name="sort_ascending">Ascending</string>
-    <string name="sort_descending">Descending</string>
-    <string name="sort_by_timer">Timer</string>
+    <string name="sort_ascending">Ascendant</string>
+    <string name="sort_descending">Descendant</string>
+    <string name="sort_by_timer">Minuterie</string>
     <string name="sort_by_game_id">ID</string>
-    <string name="sort_label">Sort</string>
-    <string name="filter_label">Filter</string>
+    <string name="sort_label">Trier</string>
+    <string name="filter_label">Filtre</string>
 </resources>
